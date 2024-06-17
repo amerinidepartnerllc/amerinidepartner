@@ -1,0 +1,36 @@
+{
+    "id": "london-rag",
+    "sort_number": 1,
+    "title": "London Rag",
+    "client": "David Neville",
+    "sector": "Website Design & Development, eCommerce, Fashion",
+    "year": "2019 - 2020",
+    "featured_image": "./images/london-rag/featured_image.png",
+	"cover_image":"./images/london-rag/featured_image.png",
+    "is_featured": true,
+    "body": [
+        "An ecommerce shopping venture for millennials that caused much disruption in the market, making apparel shopping fun and trendy.",
+        "London Rag aimed to completely revamp leisure shopping experience for men and women alike who love to be in style. Mark, London Rag founder, with the agenda to bring a change in the prevailing online shopping markets, approached us to design and develop his idea. He wanted to make apparel shopping personalized, easy to search and buy. Right from choosing the correct features to designing an intuitive UI for London Rag, we did all."
+    ],
+    "features": [
+        {
+            "id": "london-rag-feature-1",
+            "title": "What We Have Done.",
+            "image": "./images/london-rag/london_rag_responsive.png",
+            "text": [
+                "* We designed unanimously for both web and mobile platforms for London Rag keeping the standards appropriate and brand story right.",
+                "* Curated the product description and recommendations section While designing the inner pages we kept the cart minimal while adding similar products as quick recommendations for users.",
+                "* Designed the intricacies of 'shopping cart' Keeping it minimal and chic, we made the call to action prominent that promotes buying behavior, along with keeping the details correct.",
+                "* Keeping users hooked with CTAs and offers Not just fancy designs, but we focus on making conversions happen. Hence we focused on highlighting attractive offers and important CTAs."
+            ]
+        },
+        {
+            "id": "business-feature-2",
+            "title": "Result.",
+            "image": "./images/london-rag/london_rag_result.png",
+            "text": [
+                "Increased 60% in unique page views, 76 % in average time on page, 50 % in avg orders in a month."
+            ]
+        }
+    ]
+}

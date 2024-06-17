@@ -1,0 +1,56 @@
+[
+    {
+        "section": "particle_hero_section_content",
+        "title": "We design and build user friendly & device friendly Website and Mobile applications.",
+        "date": "EXPERTS SINCE 1995",
+        "bg_image": "./images/particle-banner.jpg",
+        "btn_link": "/services",
+        "clients": [
+            {
+                "id": "particle_client_1",
+                "link": "/project/wolt",
+                "image": "./images/wolt_logo.png"
+            },
+            {
+                "id": "particle_client_2",
+                "link": "/project/sofytv",
+                "image": "./images/sofytv_logo.png"
+            },
+            {
+                "id": "particle_client_3",
+                "link": "/project/mrcenterentertainment",
+                "image": "./images/mrc_logo.png"
+            }
+        ]
+    }, 
+    {
+        "section": "particle_story_section_contnet",
+        "title": "We believe that great marketing means great visual communication.",
+        "subtitle": "Our Story",
+        "image": "./images/about.png",
+        "path": "/company",
+        "content": [
+            "At Amerinide Partner LLC, our driving ambition is to create websites, mobile applications and marketing materials for our clients that are designed to build dynamic, visible, & distinctive brand identities.",
+            "We use all of the many design & marketing tools at our disposal, as well as our many years of industry experience to custom create the ideal marketing plan for each of our clients."
+        ]
+    },
+    {
+        "section": "particle_project_section_content",
+        "title": "Websites and Mobile Apps",
+        "subtitle": "Our Awesome Project"
+    },
+    {
+        "section": "particle_clients_section_content",
+        "title": "We are passionate about what we do to deliver the best for our clients, and it shows.",
+        "subtitle": "OUR CLIENTS"
+    },
+    {
+        "section": "particle_banner_section_content",
+        "banner_image": "./images/our_agency.png"
+    },
+    {
+        "section": "particle_recent_post_section_content",
+        "title": "Our Recent posts",
+        "subtitle": "SAMPLE THE GOODS"
+    }
+]

@@ -1,0 +1,43 @@
+{
+    "id": "mrcenterentertainment",
+    "sort_number": 2,
+    "title": "MR Center Entertainment",
+    "client": "Rob Jonas",
+    "sector": "Website Design, Entertainment, Event",
+    "year": "2021.2 - 2021.4",
+    "featured_image": "./images/mrcenterentertainment/featured_image.png",
+	"cover_image":"./images/mrcenterentertainment/mrcenterentertainment_cover.png",
+    "is_featured": true,
+    "body": [
+        "MRC Entertainment is one of the largest entertainment companies in Los Angeles. They've worked on movies such as Ted and they've been nominated for 94 Emmy awards.",
+        "We have worked on their full website and other internal projects.",
+        "When they first approached us, they struggled to succinctly explain all they do and lacked a navigable website."
+    ],
+    "features": [
+        {
+            "id": "mrcenterentertainment-mission",
+            "title": "What We Have Done.",
+            "image": "./images/mrcenterentertainment/mrcenterentertainment_mission.png",
+            "text": [
+                "Connecting All the Dots",
+                "MR Center Entertainment tasked us with creating a clear brand identity and seamless web user experience."
+            ]
+        },
+        {
+            "id": "mrcenterentertainment-result",
+            "title": "Services and Result.",
+            "image": "./images/mrcenterentertainment/mrcenterentertainment_result.png",
+            "text": [
+                "* Services",
+                "Full Branding & Website",
+                "Branding, Copywriting, Logo Design, Web Design, Web Development",
+                "Easy Navigation",
+                "A Modern Website",
+                "Unified & Distinct",
+                "A Powerful Brand",
+                "* Result",
+                "We have provided a fresh launchpad for a new generation of filmmakers to share their stories on a bigger avenue."
+            ]
+        }
+    ]
+}

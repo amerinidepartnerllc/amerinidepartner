@@ -1,0 +1,105 @@
+[
+    {
+        "section": "services-intro-content",
+        "title": "What We Do",
+        "desc": "Web and Mobile App development services",
+        "content": "Hiring the right app development services is key to the successful execution of a digital product strategy and achieving a powerful User Experience. That’s why, as a software development company, we help you identify the right technology solutions for your business needs. <br /><br />We architect, implement, manage and secure IT solutions that help you achieve your most ambitious IT goals.<br /><br />Our goal is to make a positive impact on people's lives and to bring ideas and concepts to life. In our free time, we build our own projects to explore new technologies and learn new ways of doing things. Our passion is reflected in the way we work together, the projects we take on, and in our work itself.",
+        "featured_work": [
+            {
+                "id": "awwards_work",
+                "title": "600+",
+                "achivments": [
+                    "highly skilled specialists"
+                ]
+            },
+            {
+                "id": "csswinner_work",
+                "title": "10 years",
+                "achivments": [
+                    "of reliable service and growth"
+                ]
+            },
+            {
+                "id": "themeforest_work",
+                "title": "90%",
+                "achivments": [
+                    "of clients are repeat customers or referrals from satisfied clients"
+                ]
+            },
+            {
+                "id": "design_awards_work",
+                "title": "150+",
+                "achivments": [
+                    "projects delivered successfully"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "services-one-service-section-content",
+        "title": "Our Expertise",
+        "content": "Browse our list of app development services and learn how our expert app developers and designers can help you address your business needs. We put at your service our technology expertise throughout the stages of product development.",
+        "featured_service": [
+            {
+                "id": "company-service",
+                "title": "Company & Service",
+                "service_icon": "./images/company_service.png",
+                "desc": "Highlight the product and services you offer, talk about relevant experience, and talk about your company's mission."
+            },
+            {
+                "id": "eCommerce",
+                "title": "eCommerce",
+                "service_icon": "./images/eCommerce.png",
+                "desc": "eCommerce websites allow you to sell products online - both simple and complex. Advanced ordering, wholesaling, ERPs all play a part."
+            },
+            {
+                "id": "lead-generation",
+                "title": "Lead Generation",
+                "service_icon": "./images/lead_generation.png",
+                "desc": "State your value proposition to gather leads, get calls, or have the customer accomplish some tasks that results in a lead."
+            },
+            {
+                "id": "landing-page-emails",
+                "title": "Landing Page & E-mails",
+                "service_icon": "./images/email.png",
+                "desc": "We can design and code landing pages and emails which can be integrated into your mail service or CRM."
+            },
+            {
+                "id": "web-apps",
+                "title": "Web Apps",
+                "service_icon": "./images/web_app.png",
+                "desc": "We can build webapps such as custom ordering systems, management systems, communication & coordination systems."
+            },
+            {
+                "id": "mobile-applications",
+                "title": "Mobile Applications",
+                "service_icon": "./images/mobile_app.png",
+                "desc": "We can build cross-platform mobile applications that are both well-accepted and commercially viable."
+            },
+            {
+                "id": "machine-learning",
+                "title": "Machine Learning",
+                "service_icon": "./images/machine_learning.png",
+                "desc": "We can build webapps such as custom ordering systems, management systems, communication & coordination systems."
+            },
+            {
+                "id": "cloud-services",
+                "title": "Cloud Services",
+                "service_icon": "./images/cloud_service.png",
+                "desc": "We can build cross-platform mobile applications that are both well-accepted and commercially viable."
+            }
+        ]
+    },
+    {
+        "section": "services-join-team-content",
+        "title": "Have a project to discuss?",
+        "desc": "We are experts in providing digital solutions with a consulting led approach that fuels innovation and business efficiency.",
+        "path": "/"
+    },
+    {
+        "section": "services-our-tech-stacks",
+        "title": "Technical Stacks",
+        "content": "Technology solutions need to adapt to your specific business needs. That is why our product development team works with your preferred programming languages, operating systems, and development tools.",
+        "image": "./images/our_tech_stacks.png"
+    }
+]

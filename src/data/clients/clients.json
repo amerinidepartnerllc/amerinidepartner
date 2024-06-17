@@ -1,0 +1,22 @@
+[
+    {
+        "id": "wolt",
+        "link": "https://wolt.com/",
+        "image": "./images/wolt_logo_grey.png"
+    },
+    {
+        "id": "sofytv",
+        "link": "https://sofy.tv/",
+        "image": "./images/sofytv_logo_grey.png"
+    },
+    {
+        "id": "mrc",
+        "link": "https://www.mrcentertainment.com/",
+        "image": "./images/mrc_logo_grey.png"
+    },
+    {
+        "id": "london_rag",
+        "link": "https://www.londonrag.com/",
+        "image": "./images/london_rag_logo_grey.png"
+    }
+]

@@ -1,0 +1,39 @@
+{
+    "id": "sofytv",
+    "sort_number": 3,
+    "title": "Sofy TV",
+    "client": "Syed Hamid",
+    "sector": "UX/UI Design, Native App Development, Streaming",
+    "year": "2019.5 - 2019.8",
+    "featured_image": "./images/sofytv/featured_image.png",
+	"cover_image":"./images/sofytv/sofytv_cover.png",
+    "is_featured": true,
+    "body": [
+        "Sofy TV brings the best shorts in the world to your screen. Watch films from any genre: fiction, documentary, animation, drama, comedy, romance, horror, sci-fi, fantasy, adventure, thriller ...",
+        "We have created an Artificial Intelligence powered award winning streaming app featuring world’s best short films.",
+        "Thoughtful curation, AI enabled recommendations and a great user experience put Sofy tv ahead of its competition."
+    ],
+    "features": [
+        {
+            "id": "sofytv-feature-1",
+            "title": "What We Have Done.",
+            "image": "./images/sofytv/sofytv_what_we_have_done.png",
+            "text": [
+                "* Planned to perfection",
+                "Our UX professionals delivered the best user experience within the time and budget available, keeping user’s need at the core. We quickly generated ideas, collected feedback, explored interaction ideas before moving into visual design and development.",
+                "* Innovative AI technology for movie recommendations",
+                "Our 1-minute film taste analyzer gives insights about your film preferences through diagrams. Sofy.tv has one of the most innovative artificial intelligence technology based on neural networks. This technology understands films better than any other technology in the world.",
+                "* Custom-made Adaptive Bit-rate Video Player",
+                "It works by detecting CPU capacity and user's bandwidth in real time and accordingly adjusting the quality of the media stream."
+            ]
+        },
+        {
+            "id": "sofytv-feature-2",
+            "title": "Result.",
+            "image": "./images/sofytv/sofytv_result.png",
+            "text": [
+                "We have provided a fresh launchpad for a new generation of filmmakers to share their stories on a bigger avenue."
+            ]
+        }
+    ]
+}

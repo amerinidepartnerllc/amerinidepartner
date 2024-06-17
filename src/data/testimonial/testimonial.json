@@ -1,0 +1,29 @@
+[
+    {
+        "id": "testimonial_1",
+        "author_name": "David Neville",
+        "author_role": "CEO",
+        "author_image": "./images/david_neville.jpg",
+        "company": "London Rag",
+        "country": "USA",
+        "review": "I am extremely happy with the way the site came out and really can’t thank them enough for their hard work and dedication to making sure I was happy. Thanks for all your patience and for doing an amazing job on my site."
+    },
+    {
+        "id": "testimonial_2",
+        "author_name": "Rob Jonas",
+        "author_role": "CEO",
+        "author_image": "./images/rob_jonas.jpg",
+        "company": "MR Center Entertainment",
+        "country": "USA",
+        "review": "Our company is extremely happy with the way our website came out. Amerinide Partner LLC is very responsive and professional and we could thank them enough for the way our website came out."
+    },
+    {
+        "id": "testimonial_3",
+        "author_name": "Juhani Mykkänen",
+        "author_role": "CEO",
+        "author_image": "./images/juhani.jpg",
+        "company": "Wolt",
+        "country": "Finland",
+        "review": "Hired Amerinide Partner LLC to create a website for my Food Delivery business and they did an amazing job. They also have implemented a very effective social media and search marketing campaign."
+    }
+]

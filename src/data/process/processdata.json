@@ -1,0 +1,52 @@
+[
+    {
+        "section": "process-intro-content",
+        "title": "Development Process",
+        "content": "With over 10 years of experience, we've developed a method of building websites that yields success.<br /><br />We do customize the process for unique situations and projects but this is the general flow.",
+        "featured_process": [
+            {
+                "id": "information_gathering",
+                "title": "Information Gathering",
+                "image": "./images/information_gathering.png",
+                "desc": "We always start by gathering information about your project - what information and materials are available, what are the key deadlines and goals, etc. <br /><br /> We put a schedule and project plan together."
+            },
+            {
+                "id": "ux_design",
+                "title": "UX Research & Design",
+                "image": "./images/ux_design.png",
+                "desc": "It is very important to think through a website and tailor its structure, flow, and content towards your goal for the website and your customers goal in visiting.<br /><br />Our UX team will conduct research, perform user testing and assemble wireframes."
+            },
+            {
+                "id": "ui_design",
+                "title": "UI Design",
+                "image": "./images/ui_design.png",
+                "desc": "Once the UX is complete our designers will design a Ul to fit the wireframes.<br /><br />They'll use photography, illustration, and modern design elements to create a design that will fit your website's purpose and goal."
+            },
+            {
+                "id": "frontend_build",
+                "title": "Frontend Build",
+                "image": "./images/frontend_build.png",
+                "desc": "Our front-end developers will take the UI design and implement it into desktop and mobile responsive code that is compatible and tested with different browsers and devices.<br /><br />They'll also make sure your website is SEO optimized and loads fast."
+            },
+            {
+                "id": "backend_build",
+                "title": "Backend Build",
+                "image": "./images/backend_build.png",
+                "desc": "The back-end developers will take the front-end code and tie it into databases, create a back-end management system, tie your website into mailing software, ERPs, CMSs, and other third-party software products that you use."
+            },
+            {
+                "id": "test_launch",
+                "title": "Test & Launch",
+                "image": "./images/test_launch.png",
+                "desc": "It's critical to perform quality control on a website before and after it launches.<br /><br />Our QC team will review your website to make sure its all functional and doesn't have any visual or compatibility issues.<br /><br />Once we're sure we'll launch it."
+            },
+            {
+                "id": "result",
+                "title": "The Result",
+                "image": "./images/result.png",
+                "desc": "We offer a 30 day guarantee on all our websites to ensure that everything is working without bugs/issues.<br /><br />We also offer ongoing maintenance services as well as a high level consultative retainer support service.<br /><br />Ask about our ongoing consulting review services where well make suggestions on how to improve your website."
+            }
+
+        ]
+    }
+]

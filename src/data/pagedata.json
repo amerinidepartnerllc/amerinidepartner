@@ -1,0 +1,30 @@
+[
+    {
+        "section": "company_page_data",
+        "banner_img": "./images/about_us.png"
+    },
+    {
+        "section": "project_page_data",
+        "banner_img": "./images/our_projects.jpg"
+    },
+    {
+        "section": "contact_page_data",
+        "banner_img": "./images/contact.jpg",
+        "title": "Contact Us",
+        "subtitle": "Your business will change because of contact with us."
+    },
+    {
+        "section": "blog_page_data",
+        "banner_img": "./images/blog_banner.png",
+        "title": "Our News",
+        "subtitle": "SAMPLE THE GOODS"
+    },
+    {
+        "section": "single_project_page_data",
+        "banner_img": "./images/project_banner.jpg"
+    },
+    {
+        "section": "services_page_data",
+        "banner_img": "./images/services.jpg"
+    }
+]

@@ -1,0 +1,49 @@
+[
+    {
+        "section": "about-intro-content",
+        "title": "about us",
+        "desc": "We architect, implement, manage and secure IT solutions that help you achieve your most ambitious IT goals.",
+        "content": "We work with ambitious clients who want to define the future, not hide from it.<br /><br />Global leaders come to us to solve industry-defining challenges in: strategy, marketing, organization, operations, information technology, digital transformation and strategy, advanced analytics, transformations, sustainability, corporate finance and mergers and acquisitions, across all industries and geographies. Our unique approach to change management helps structure, orchestrate and enable sustained results.<br /><br />We measure our success by the success of our clients: more than 60% of the Global 500, private equity funds representing 75% of global equity capital, leading nonprofits and innovative startups.",
+        "featured_work": [
+            {
+                "id": "awwards_work",
+                "title": "600+",
+                "achivments": [
+                    "highly skilled specialists"
+                ]
+            },
+            {
+                "id": "csswinner_work",
+                "title": "10 years",
+                "achivments": [
+                    "of reliable service and growth"
+                ]
+            },
+            {
+                "id": "themeforest_work",
+                "title": "90%",
+                "achivments": [
+                    "of clients are repeat customers or referrals from satisfied clients"
+                ]
+            },
+            {
+                "id": "design_awards_work",
+                "title": "150+",
+                "achivments": [
+                    "projects delivered successfully"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "about-team-section-content",
+        "title": "Our Awesome Teams",
+        "subtitle": "SAMPLE THE GOODS"
+    },
+    {
+        "section": "about-join-team-content",
+        "title": "Have a project to discuss?",
+        "desc": "We are experts in providing digital solutions with a consulting led approach that fuels innovation and business efficiency.",
+        "path": "/contact"
+    }
+]

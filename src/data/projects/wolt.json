@@ -1,0 +1,45 @@
+{
+    "id": "wolt",
+    "sort_number": 4,
+    "title": "Wolt",
+    "client": "Juhani Mykkänen",
+    "sector": "Food Delivery",
+    "year": "2021.4 - 2021.5",
+    "featured_image": "./images/wolt/featured_image.png",
+	"cover_image":"./images/wolt/wolt_banner.png",
+    "is_featured": true,
+    "body": [
+        "Wolt makes it incredibly easy to discover and get great food, groceries and anything you might need delivered in your city. Whatever you’re in the mood for, we’ll make sure it gets delivered to you.",
+        "We gave shape to the idea of serving customers beyond the brick & mortar store and providing customers the perfect food drive-thru experience in the F&B business."
+    ],
+    "features": [
+        {
+            "id": "wolt-feature-1",
+            "title": "What We Have Done.",
+            "image": "./images/wolt/wolt_cover.png",
+            "text": [
+                "* SEARCH YOUR RESTAURANT",
+                "You can browse through the list of hawkers, cafes, and restaurants available on Wolt, and see the food and drinks they offer. Also, if you are craving for anything in particular, you can search for it in the advanced search option.",
+                "* SELECT YOUR ITEMS",
+                "From the smallest sip to the biggest bites, you can order whatever you want. Once you’ve found what you are craving for, order away and add it to your cart. Vendors can customize their menu throughout the day.",
+                "* SELECT YOUR SCHEDULE",
+                "With real-time updates, the moment you place an order, Wolt will let the restaurant know when you’re arriving to take away the order. In the vendor’s app, restaurants can set a time for breakfast/lunch/dinner menu depending on the availability.",
+                "* MY ORDERS",
+                "Check out your order status in real-time. Check whether the restaurant has accepted it or not and accordingly, start your journey to pick it up."
+            ]
+        },
+        {
+            "id": "wolt-feature-2",
+            "title": "Services and Result.",
+            "image": "./images/wolt/wolt_result.png",
+            "text": [
+                "* Services.",
+                "UX/UI Design",
+                "Hybrid App Development",
+                "RESTful API Development",
+                "* Result",
+                "Increased 70% in average orders a month, 95 % in user engagement, 40 % in online visibility."
+            ]
+        }
+    ]
+}
